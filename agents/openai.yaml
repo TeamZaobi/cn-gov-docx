@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文公文 DOCX"
+  short_description: "中文正式文档与公文式 Word 写作"
+  default_prompt: "Use $cn-gov-docx to draft or normalize a Chinese formal Word document and prepare it for `.docx` delivery."
